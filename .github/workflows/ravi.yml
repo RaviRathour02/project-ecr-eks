@@ -1,5 +1,5 @@
 name: Java CI with Maven
-
+![example branch parameter.](https://github.com/RaviRathour02/project-ecr-eks/.github/workflows/ravi.yml/badge.svg?branch=main)
 on:
   push:
     branches: [ "main" ]
